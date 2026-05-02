@@ -1,0 +1,58 @@
+{
+  "months": [
+    {
+      "month": "2026-02",
+      "tag": "v2026-02",
+      "path": "releases/2026-02",
+      "files": {
+        "contract_items.parquet": {
+          "rows": 14783,
+          "bytes": 196466,
+          "sha256": "1c699cf0ae19a3860dcc1fea7f58bedcaace34801efbd1322edb16fac1e276cf"
+        },
+        "contracts.parquet": {
+          "rows": 14513,
+          "bytes": 665104,
+          "sha256": "ed98314f59427a3eb4d3b46ecb3d2bde0943c1777b15b4d91e12927b3935e820"
+        },
+        "flags.parquet": {
+          "rows": 2490,
+          "bytes": 134757,
+          "sha256": "12802da7ceba6bd458001320f576aa4e13c969f4d8bbcd0181a3802b2ef71eca"
+        },
+        "orgs.parquet": {
+          "rows": 7630,
+          "bytes": 616547,
+          "sha256": "dc061cace17c7740e43a6037b53340bcd49b3be3bccbc98622e08e1919509260"
+        }
+      }
+    }
+  ],
+  "latest_month": "2026-02",
+  "all": {
+    "path": "releases/all",
+    "files": {
+      "contract_items.parquet": {
+        "rows": 225115,
+        "bytes": 2673850,
+        "sha256": "709a203fe7d13ebc3ffc241d62a1caa4dbb223d45c9e6dc8c206618e2570027d"
+      },
+      "contracts.parquet": {
+        "rows": 318302,
+        "bytes": 13677363,
+        "sha256": "88727a1377a2b6e2b7e70e5cb047d362db1a492de80ebaf9a71965c60abf5fa6"
+      },
+      "flags.parquet": {
+        "rows": 43282,
+        "bytes": 1997358,
+        "sha256": "59217d485b0a76efbf048bd9532f3dc7cf2fb671b6f55d938728c2f5e48032b7"
+      },
+      "orgs.parquet": {
+        "rows": 60563,
+        "bytes": 3324045,
+        "sha256": "2943dc5a9d07a0f7a0b4abe3539acb984d47656fd61993e45aaab637f5b1d284"
+      }
+    }
+  },
+  "generated_at": "2026-04-30T23:22:14.840366+00:00"
+}
