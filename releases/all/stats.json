@@ -1,6 +1,6 @@
 {
   "label": "all",
-  "generated_at": "2026-05-03T10:43:15.739292+00:00",
+  "generated_at": "2026-05-03T12:34:54.058748+00:00",
   "files": {
     "contract_items.parquet": {
       "rows": 225115,
@@ -14,13 +14,13 @@
     },
     "flags.parquet": {
       "rows": 43282,
-      "bytes": 1997358,
-      "sha256": "59217d485b0a76efbf048bd9532f3dc7cf2fb671b6f55d938728c2f5e48032b7"
+      "bytes": 1999455,
+      "sha256": "0b60e349d3b1d1d6aede15a2bd400f61b9a45a8275b0b40ca570aaea44fde598"
     },
     "orgs.parquet": {
       "rows": 60563,
-      "bytes": 3322323,
-      "sha256": "f2d83b3ec945e7f5a8b735ef6d35f59ab87ac1902d7d0a9648e9ccbe6621e30c"
+      "bytes": 3328511,
+      "sha256": "5c51bb942d8ec2a0a30620171a9cdf2f3303a55e34ac3398f588dddfc1424787"
     }
   }
 }

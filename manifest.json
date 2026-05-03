@@ -17,13 +17,13 @@
         },
         "flags.parquet": {
           "rows": 2490,
-          "bytes": 134824,
-          "sha256": "ab1d24266aeade15ffee87357d1db52924a5c4001819b996b67634775827a40d"
+          "bytes": 134810,
+          "sha256": "5698316c3e5157edc48d914aa083b7f781fd95e15331593d4b02dc1f4c306979"
         },
         "orgs.parquet": {
           "rows": 7630,
-          "bytes": 617295,
-          "sha256": "ec5a5399821d7d3ed80f77a555084b89fb2a4d2190faba0158225fc7a003f11e"
+          "bytes": 616737,
+          "sha256": "4452a6f9296046e9eb849accbfdaff37a43cd3e19eb70ed46b6636acb39353ef"
         }
       }
     }
@@ -44,20 +44,20 @@
       },
       "flags.parquet": {
         "rows": 43282,
-        "bytes": 1997358,
-        "sha256": "59217d485b0a76efbf048bd9532f3dc7cf2fb671b6f55d938728c2f5e48032b7"
+        "bytes": 1999455,
+        "sha256": "0b60e349d3b1d1d6aede15a2bd400f61b9a45a8275b0b40ca570aaea44fde598"
       },
       "orgs.parquet": {
         "rows": 60563,
-        "bytes": 3322323,
-        "sha256": "f2d83b3ec945e7f5a8b735ef6d35f59ab87ac1902d7d0a9648e9ccbe6621e30c"
+        "bytes": 3328511,
+        "sha256": "5c51bb942d8ec2a0a30620171a9cdf2f3303a55e34ac3398f588dddfc1424787"
       }
     }
   },
-  "generated_at": "2026-05-03T10:43:30.339122+00:00",
+  "generated_at": "2026-05-03T12:35:12.099726+00:00",
   "contractsRaw": {
     "basePath": "releases/all/contracts_raw",
-    "days_emitted": 1426,
-    "total_contracts": 318302
+    "days_emitted": 962,
+    "total_contracts": 59510
   }
 }
